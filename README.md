@@ -1,6 +1,6 @@
-This is a copy of [an old version (1.1.4) of the Xdelta utility](https://github.com/jmacd/xdelta-gpl/tree/d16652b02a590804b486f15e66f4115ddfd84760/xdelta1) that I've re-tooled to build with CMake.  Trying original was built with obsolete versions of autoconf and VC++6.
+This is a copy of [an old version (1.1.4) of the Xdelta utility](https://github.com/jmacd/xdelta-gpl/tree/d16652b02a590804b486f15e66f4115ddfd84760/xdelta1) that I've re-tooled to build with CMake.  The original was built with obsolete versions of autoconf and VC++6.
 
-This should come in handy if you're trying to process really old Xdelta files (for ROM patches or whatever else).
+This should come in handy if you're trying to process really old Xdelta files (for hacked ROM patches or whatever).
 
 Some things I'd like to build with this:
 - [ ] A fastcgi wrapper for web-based converter utilities
