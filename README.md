@@ -11,7 +11,7 @@ Requirements:
 * [glib 1.2 (really old)](https://aur.archlinux.org/packages/glib/)
 * zlib
 
-
+```
 	       Xdelta -- A binary delta generator
 
 Announcing version 1.1.2 of Xdelta.  Xdelta is an application program
@@ -190,3 +190,4 @@ DESCRIPTION
               Disable  the  automatic  decompression of gzipped
               inputs,  to prevent unexpected differences in the
               re-compressed content.
+```
